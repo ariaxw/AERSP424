@@ -3,4 +3,4 @@
 ### C++ Program
 - IDE: Makefile and Cmake
 
-By Aria
+By Aria (Xue Wang)
